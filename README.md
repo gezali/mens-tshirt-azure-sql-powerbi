@@ -11,7 +11,7 @@
 
 <br>
 
-📷 **Dashboard Preview:** [Cover Page](images/dashboard_cover.png) &nbsp;|&nbsp; [Main Dashboard](images/dashboard_overview.png)
+📷 **Dashboard Preview:** 
 
 <br>
 
@@ -181,7 +181,7 @@ The Power BI report (`Tshirts.pbix`) has two pages in a navy and gold theme.
 
 A branded landing page ("Exclusive Men's Collection, Insigh BI") with a scrollable **Brand** list for quick brand lookup.
 
-<a href="images/dashboard_cover.png"><img src="images/dashboard_cover.png" alt="Insigh BI cover page" width="100%"></a>
+<!-- <a href="images/dashboard_cover.png"><img src="images/dashboard_cover.png" alt="Insigh BI cover page" width="100%"></a> -->
 
 ### Page 2: Main Dashboard (Insigh BI Solution Private Limited)
 
@@ -193,7 +193,7 @@ A branded landing page ("Exclusive Men's Collection, Insigh BI") with a scrollab
 | Top 5 Brands by Highest Average Sales Price | Ribbon chart | Most premium brands by price point |
 | Bottom 5 Brands by Average Profit Percentage | Pie chart | Brands with the thinnest margins |
 
-<a href="images/dashboard_overview.png"><img src="images/dashboard_overview.png" alt="Insigh BI main dashboard" width="100%"></a>
+<!-- <a href="images/dashboard_overview.png"><img src="images/dashboard_overview.png" alt="Insigh BI main dashboard" width="100%"></a> -->
 
 ---
 
